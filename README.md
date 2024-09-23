@@ -44,13 +44,8 @@ The CraveCorner website highlights:
 
 ---
 
-## 🚀 **Future Enhancements**
-- **Online Reservation System**: Allow users to book tables online through the website.
-- **Dynamic Menu Updates**: Add a content management system (CMS) to enable easy updates to the menu.
-- **Customer Reviews & Testimonials**: Add a section for customers to leave reviews.
-- **Newsletter Subscription**: Implement a feature for visitors to subscribe to email newsletters.
-
----
+##🚀 **Access the Website**
+**Visit CraveCorner: https://sarveshmscss.github.io/static-hosting/**
 
 ## 🏆 **Credits**
 This project was developed by **Sarvesh K**, PSG College of Arts & Science, using a modified **Bootstrap** template to bring the CraveCorner restaurant vision to life.
